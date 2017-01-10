@@ -1,1 +1,0 @@
-java -jar Dota2TeamCompTool.jar
